@@ -151,7 +151,7 @@ O foco é:
 Clone o projeto:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/JTheiller/Learn-Delphi.git
 ```
 
 Abra qualquer pasta individualmente no Delphi e explore os exemplos.
